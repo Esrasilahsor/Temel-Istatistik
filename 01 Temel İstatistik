@@ -1,0 +1,45 @@
+			01 Temel İstatistik
+
+
+Veri: Sayı cinsinden temsil edilmiş özelliklerdir.
+
+Sayı: İstatistik ve istatistiksel hesaplamanın konusu olması itibariyle mantıksal bir ifadedir. Kategorik olarak tanımlanabilir her şey ve durum saymanın ve dolasıyla istatistiğin konusu olabilir.
+
+Saymanın ve istatistiğin konusu olan her şeyin bilgisayarlarda işleme ve analiz edilmesi de mümkündür çünkü bilgisayarların temel yapısı da binary kurguda çalışır. 
+
+0 vs 1 (Binary)
+
+Bilgisayarın arka planındaki bütün işlemler bir ve sıfır ile çalışır.
+
+Yapılandırılmamış Veri: Metin
+
+Yarı Yapılandırılmış Veri:
+
+	- Teşhis
+	- Tespit
+	- Kayıt Tutma
+	- Paylaştırma(Payları tespit)
+	- Paylaştırma(Toplulaştırma)
+
+Yapılandırılmış Veri: Tablolar
+
+Nicel Veri Analiz Teknikleri: Basit tanımlayıcı istatistiklerden karmaşık ilişkiler ve nedensellikler modellemesine evrim.
+
+Excel: Kayıt tutmak için kullanılır. Kullanım alanı çok geniş bir platfırmdur.
+
+- Değişken isimlendirirken Türkçe karakter kullanmamaya, kelimeler arası boşluk bırakmamaya dikkat edilmelidir.
+- İstatistikçilerin kullandığı yapı taşına değişken denir.
+- Boş hücrelere Missing Value(Kayıp Değer) denir.
+
+Nominal Değişken:
+
+	Bir şeyin ismi olan değişkenlerdir. Sıralı değildir, artma azalma olma. Ayrışık kategorileri ifade eder. Bazen categorical denir.
+
+Sayısal Değişken:
+
+	1- Ratio
+	2- Interval
+
+Ordinal: Sıralı değişkenlerdir. Yerine göre sayısal yerine göre kategorik olabilir. Daha çok sayısal kullanılır.
+
+Not: Bazen numeric olarak girilen değer bir kategoriyi temsil ediyorsa nominal değişken olur.
