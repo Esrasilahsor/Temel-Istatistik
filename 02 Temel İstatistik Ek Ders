@@ -1,0 +1,16 @@
+			02 Temel İstatistik Ek Ders
+
+
+- Excel tarih olarak 01/01/1900' den başlar.
+- Nominal veya Categorical değişkenler bazen Factor şeklinde olabilir.
+
+Factor: Özellikle R programlama dilinde kullanılan bir veri tipidir ve kategori(Niteliksel) verileri temsil eder. Belirli sınıflara (kategori düzeylerine) sahip verileri depolamak için kulanılır. Örneğin, "Cinsiyet" değişkeni Kadın ve Erkek gibi sınırlı değerlere sahiptir.
+
+- Tabloyu transpoze ile çevirebiliriz. Paste(Transpoze)
+- Dolar işareti ($) sabitleme yapar. Hücre sabitleme: $D$30 şeklinde yapamlıyız.
+
+CONCATENTE: İki veya daha fazla hücreyi birleştirir. =CONCATENATE(metin1; metin2; metin3; ...)
+
+LOWER: Küçük harfe dönüştürür.
+
+TEXTJOIN: Birden fazla hücredeki metni tek bir hücrede birleştirmeye yarayan bir metin fonksiyonudur. =TEXTJOIN(ayırıcı; boş_olanları_yok_say; metin1; metin2; ...)
