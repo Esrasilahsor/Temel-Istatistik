@@ -1,0 +1,29 @@
+			03 Temel İstatistik Hafta3 - Excel
+
+
+	Sequence: 
+
+SEQUENCE fonksiyonu, belirttiğin satır ve sütun sayısına göre otomatik olarak artan sayılar üretir.
+
+=SEQUENCE(satır_sayısı; [sütun_sayısı]; [başlangıç]; [artış])
+
+
+	XLOOKUP: 
+
+Excel’de bir değeri bir aralıkta arayıp karşılık gelen değeri başka bir aralıktan getirmek için kullanılır
+
+=XLOOKUP(aranan_değer; arama_aralığı; sonuç_aralığı; [bulunamazsa]; [eşleşme_modu]; [arama_modu])
+
+
+	Pivot Table: 
+
+Excel’de verileri hızlıca özetlemek, analiz etmek ve karşılaştırmak için kullanılan güçlü bir araçtır. Büyük bir veri tablosundaki bilgileri —örneğin satışlar, şehirler, tarihler gibi— gruplandırıp, toplama, sayma, ortalama alma gibi işlemlerle özet bir tablo haline getirir.
+
+
+	Kısa Notlar:
+
+- Save as Template ile düzenlediğimiz grafik taslağını kaydedip sonra da kullanabiliriz.
+
+- Kolona bir bilgi girişi yapmayacaksak , veya ; ile geçiyoruz.
+
+- Tarih verilerini el ile girersek hata yaparız o yüzden mümkünse bu işlemleri fonksiyon ile yapmak daha doğru olur.
